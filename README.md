@@ -1,4 +1,4 @@
-### Hi there, i'm Wasay!  👋
+### Hi there!  👋
 
 <!--
 **abdulwasay27/abdulwasay27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
