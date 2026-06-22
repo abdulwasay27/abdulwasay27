@@ -26,7 +26,7 @@
 
 **🔍 LawIntel** — Hybrid Graph-RAG legal assistant using KuzuDB + ChromaDB for multi-hop citation resolution, with a LangGraph orchestration layer that grounds all outputs in verifiable case law.
 
-**🎾 TennisVision** — Multi-stage CV pipeline combining pose estimation and a spatio-temporal transformer for stroke classification, served through an async FastAPI + Celery backend with real-time SSE streaming.
+**🎾 TennisVision** — An AI-powered tennis analytics platform that combines pose estimation and spatio-temporal transformers to classify player strokes automatically. Built for high performance, it leverages an async FastAPI and Celery backend to stream live match insights to clients via Server-Sent Events (SSE).
 
 **📅 Event Booking Platform** — Microservices architecture with FastAPI and Node.js, RabbitMQ for async messaging, PostgreSQL + MongoDB, containerized with Docker and Kubernetes.
 
