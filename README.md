@@ -1,7 +1,7 @@
 # Hi 👋, I'm Abdul Wasay
 
 <h3 align="center">
-🎓 CS Student @ FAST Islamabad &nbsp;|&nbsp; 🤖 AI Systems & Backend Engineering &nbsp;|&nbsp; 🔬 AI Research Fellow @ Genesys Lab
+🎓 BS Computer Science, FAST Islamabad | 🤖 AI Systems & Backend Engineering | 🔬 AI Research Fellow @ Genesys Lab
 </h3>
 
 <p align="center">
@@ -12,13 +12,13 @@
 
 ## 💫 About Me
 
-🎓 CS student at FAST Islamabad working at the intersection of AI research and production engineering. I build things that go beyond notebooks — multi-agent LLM systems, computer vision pipelines, and scalable backend infrastructure.
+I'm a Computer Science graduate from FAST Islamabad working at the intersection of AI research and production engineering. I build things that go beyond notebooks: multi-agent LLM systems, intelligent vision applications, and backend infrastructure that scales.
 
-🔬 Currently doing AI research at **Genesys Lab**, benchmarking small language models and building automated experimentation pipelines.
+🔬 Currently an AI Research Fellow at Genesys Lab, working on small language model behavior and evaluation, building automated experimentation pipelines for reproducible benchmarking.
 
 💼 Previously at **Stixor Technologies**, building LangGraph-based agentic workflows for a production sales automation backend.
 
-💬 Ask me about **LLM systems, RAG architectures, multi-agent design, computer vision pipelines, ML experimentation, or backend engineering**.
+💬 Ask me about **LLM systems, RAG architectures, multi-agent design, computer vision systems, ML experimentation, or backend engineering**.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
